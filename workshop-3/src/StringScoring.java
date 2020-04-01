@@ -4,9 +4,9 @@ class Scorer
 {
     private final int alphabetLen = 26;
     private Letter[] alphabetArr = new Letter[alphabetLen];
-    private int[] scoreArr = {1,3,3,2,1,4,2,4,1,8,5,1,3,1,1,3,10,1,1,1,1,4,4,8,4,10};
-    private int asciiValue = 65;
+    private final int[] scoreArr = {1,3,3,2,1,4,2,4,1,8,5,1,3,1,1,3,10,1,1,1,1,4,4,8,4,10};
     private final int asciiOffset = 65;
+    private int asciiValue = asciiOffset;
     private int score = 0;
 
     public Scorer()
@@ -26,7 +26,12 @@ class Scorer
         for(char character:chars)
         {
             int characterIndex = (byte)character - asciiOffset;
-            score = score + alphabetArr[characterIndex].getScore();
+            if(characterIndex >= 0 && characterIndex < alphabetLen)
+                score = score + alphabetArr[characterIndex].getScore();
+            else
+            {
+                System.out.println("Warning: One of the characters enter was non-alphabetic.");
+            }
         }
         return score;
     }
