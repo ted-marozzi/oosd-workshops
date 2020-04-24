@@ -8,12 +8,15 @@ public class UnimelbTimetable implements Timetable {
     /* Constants */
     private static final int MAX_SUBJECTS = 4;
     private static final int MAX_TIMETABLE_ACTIVITIES = 20;
+    private static final int NUM_DAYS = 5;
+    private static final int NULL_TIME = 0;
+    private static final double LATEST_FINISH = 24.0;
+    /* Arrays of classes: Subjects, Activities */
     private Subject[] subjects = new Subject[MAX_SUBJECTS];
     private Activity[] activities = new Activity[MAX_TIMETABLE_ACTIVITIES];
+    /* Keeps track of the number of subjects and activities loaded. */
     private int numActivities = 0;
     private int numSubjects = 0;
-    private static final double LATEST_FINISH = 24.0;
-
 
 
     /**
@@ -34,9 +37,8 @@ public class UnimelbTimetable implements Timetable {
      *                    finish
      */
     public void loadSubject(String subjectCode, String[] activityInformation) {
-        /* Fill in this method */
+        /* Constructs a new subject for every subjected loaded and adds it to subjects array */
         subjects[numSubjects++] = new Subject(subjectCode, activityInformation);
-
     }
 
     /**
@@ -45,15 +47,16 @@ public class UnimelbTimetable implements Timetable {
      * @param activityCode The activity code (e.g. SWEN20003/U/1/SM1/L02/1).
      */
     public void loadActivityFromCode(String activityCode) {
-        /* Fill in this method */
+        /* Extracts the subject code */
         String subjectCode = activityCode.split("/")[0];
 
         int i;
-
+        /* Match the subject code to the subject */
         for(i=0;i<numSubjects;i++)
         {
             if(subjects[i].getSubjectCode().equals(subjectCode))
             {
+                /* When a match is found create an activity under that subject, also add it to activities array */
                 activities[numActivities++] = subjects[i].createActivity(activityCode);
             }
         }
@@ -67,11 +70,11 @@ public class UnimelbTimetable implements Timetable {
      * non-lecture activities on day index i.
      */
     public double[] getDailyHourTotalsExcludingLectures() {
-        /* Fill in this method */
-        int i;
-        //TODO: make this a constant num days
-        double[] dailyHoursNoLec = new double[5];
 
+        int i;
+        /* Array of doubles */
+        double[] dailyHoursNoLec = new double[NUM_DAYS];
+        /* Adds to daily lecture time for that day provided class isn't a lecture */
         for(i = 0; i < numActivities; i++ )
         {
 
@@ -92,10 +95,10 @@ public class UnimelbTimetable implements Timetable {
      * activities on day index i.
      */
     public double[] getDailyHourTotals() {
-        /* Fill in this method */
-        int i;
-        double[] dailyHours = new double[5];
 
+        int i;
+        double[] dailyHours = new double[NUM_DAYS];
+        /* Adds to daily hours for each activity */
         for(i = 0; i < numActivities; i++ )
         {
             dailyHours[activities[i].getDay()] += activities[i].getFinish()-activities[i].getStart();
@@ -112,36 +115,38 @@ public class UnimelbTimetable implements Timetable {
      * for day index i.
      */
     public double[] getDailyTimeAtUni() {
-        /* Fill in this method */
+
         int i;
-        double[] dailyTime = new double[5];
-        double[] earliestStart = new double[5];
-        double[] latestFinish = new double[5];
+        double[] dailyTime = new double[NUM_DAYS];
+        double[] earliestStart = new double[NUM_DAYS];
+        double[] latestFinish = new double[NUM_DAYS];
 
         Arrays.fill(earliestStart, LATEST_FINISH);
 
-
+        /* Finds the earliest start and latest finish for each day */
         for(i = 0; i < numActivities; i++ )
         {
-
-            earliestStart[activities[i].getDay()] = Math.min(earliestStart[activities[i].getDay()], activities[i].getStart());
-            latestFinish[activities[i].getDay()] = Math.max(latestFinish[activities[i].getDay()], activities[i].getFinish());
+            int day = activities[i].getDay();
+            earliestStart[day] = Math.min(earliestStart[day], activities[i].getStart());
+            latestFinish[day] = Math.max(latestFinish[day], activities[i].getFinish());
 
         }
-
-        for(i = 0; i < 5; i++ )
+        /* Subtracts those numbers, More efficient to do outside the loop i believe. */
+        for(i = 0; i < NUM_DAYS; i++ )
         {
-
             dailyTime[i] = latestFinish[i] - earliestStart[i];
+            /* Edge case where no activities on a day */
             if(earliestStart[i] == LATEST_FINISH)
             {
-                dailyTime[i] = 0;
+                dailyTime[i] = NULL_TIME;
             }
         }
-
 
         return dailyTime;
     }
 
-    /* Make your life easier by creating other methods and classes! */
+    /*
+    * QUESTION: I contemplated using a day class considering the
+    * questions regard daily activities. Do you think this could also work, or is that not preferred?
+    */
 }

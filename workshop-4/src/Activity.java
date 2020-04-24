@@ -1,13 +1,12 @@
 public class Activity {
     private String activityInfoString;
-
     private String activityCode;
     private String activityName;
     private int day;
     private double start;
     private double finish;
     private String[] stringArr;
-
+    /* Constructor to parse attributes */
     public Activity(String activityInfoString)
     {
         int i = 0;
@@ -21,6 +20,7 @@ public class Activity {
         finish = Double.parseDouble(stringArr[i++]);
     }
 
+    /* Get methods 88*/
     public String getActivityCode() {
         return activityCode;
     }

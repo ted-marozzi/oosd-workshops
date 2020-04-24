@@ -1,40 +1,38 @@
+/* Subject class intended to exist within a Timetable
+*/
+
+
 public class Subject {
     private final String[] activityInformation;
     private String subjectCode;
-    private Activity[] activities;
-    private int numActivities = 0;
-
+    /* Constructor */
     public Subject(String subjectCode, String[] activityInformation) {
         this.subjectCode = subjectCode;
         this.activityInformation = activityInformation;
-        // Array of all activities in the subject
-        activities = new Activity[activityInformation.length];
+        
     }
-
+    /* Main method, creates an activity and returns it */
     public Activity createActivity(String activityCode)
     {
         int i;
+        Activity activity = null;
 
 
         for(i = 0; i < activityInformation.length; i++)
         {
-
+            /* Takes the activity code and checks it against the activity codes in the subjects activity infomation */
             if(activityInformation[i].split(", ")[0].equals(activityCode))
             {
-
-                activities[numActivities++] = new Activity(activityInformation[i]);
+                /* Creates a new activity and returns it */
+                activity = new Activity(activityInformation[i]);
                 break;
             }
         }
 
-        return activities[numActivities-1];
-
+        return activity;
     }
 
-    public Activity[] getActivities() {
-        return activities;
-    }
-
+    /* Get methods */
     public String getSubjectCode() {
         return subjectCode;
     }
