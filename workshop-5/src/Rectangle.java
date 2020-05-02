@@ -10,7 +10,7 @@ public class Rectangle extends Shape {
         this.length = length;
         this.colour = Colour.BLACK;
     }
-
+    // Constructor with explicit colour definition
     public Rectangle(double width, double length, Colour colour) {
         this.width = width;
         this.length = length;

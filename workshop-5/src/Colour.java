@@ -10,13 +10,27 @@ public final class Colour {
     // rgb array
     private final int[] rgb = new int[3];
 
-    // TODO: Implement range checks 0,255 inclusive
 
     // Constructor
     public Colour(int r, int g, int b) {
-        this.rgb[R_INDEX]= r;
-        this.rgb[G_INDEX]= g;
-        this.rgb[B_INDEX]= b;
+        if(checkRange(r) && checkRange(g) && checkRange(b))
+        {
+            this.rgb[R_INDEX] = r;
+            this.rgb[G_INDEX] = g;
+            this.rgb[B_INDEX] = b;
+        }
+        else
+        {
+            System.out.println("Colour Undefined defaulting to Black, please check r,g,b values are within ranges 0-255 inclusive. ");
+        }
+    }
+
+    private boolean checkRange(int colorNum)
+    {
+        if(colorNum > 255 || colorNum < 0)
+            return false;
+
+        return true;
     }
 
     // Returns an array with the rgb values
