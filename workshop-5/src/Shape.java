@@ -1,9 +1,5 @@
-public class Shape {
+public abstract class Shape {
+    public abstract void render();
 
-
-    public void render() {
-    }
-
-    public double getArea() {
-    }
+    public abstract double getArea();
 }
