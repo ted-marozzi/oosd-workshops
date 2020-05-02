@@ -27,10 +27,7 @@ public final class Colour {
 
     private boolean checkRange(int colorNum)
     {
-        if(colorNum > 255 || colorNum < 0)
-            return false;
-
-        return true;
+        return colorNum <= 255 && colorNum >= 0;
     }
 
     // Returns an array with the rgb values
@@ -54,7 +51,7 @@ public final class Colour {
     // Returns "(r, g, b)" as a string to be printed
     public String printRGB()
     {
-        return "(" + rgb[R_INDEX] + ", " + rgb[G_INDEX] + ", " + rgb[B_INDEX] + ")";
+        return "(" + getR() + ", " + getG() + ", " + getB() + ")";
     }
 
 
