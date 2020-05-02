@@ -1,11 +1,21 @@
 public class Triangle extends Shape {
-    public Triangle(double base, double height, Colour colour) {
-        super();
+    private final double base, height;
+    private final Colour colour;
+
+    // Constructor with default colour
+    public Triangle(double base, double height) {
+        this.base = base;
+        this.height = height;
+        this.colour = Colour.BLACK;
     }
 
-    public Triangle(double base, double height) {
-        super();
+    // Constructor with Colour passed
+    public Triangle(double base, double height, Colour colour) {
+        this.base = base;
+        this.height = height;
+        this.colour = colour;
     }
+
 
     @Override
     public void render() {
