@@ -1,18 +1,21 @@
 public class LogLine implements Comparable<LogLine>
 {
 
-    private String arrCity = null;
+    private String desCity = null;
     private String depCity = null;
     private int arrTime = 0;
     private int userID;
+    private String logLine;
+    private String[] logLineArr;
 
     public LogLine(String logLine)
     {
-        String[] logLine1 = logLine.split(":");
-        userID = Integer.parseInt(logLine1[0]);
-        depCity = logLine1[1];
-        arrCity = logLine1[2];
-        arrTime = Integer.parseInt(logLine1[3]);
+        this.logLine = logLine;
+        this.logLineArr = logLine.split(":");
+        userID = Integer.parseInt(logLineArr[0]);
+        depCity = logLineArr[1];
+        desCity = logLineArr[2];
+        arrTime = Integer.parseInt(logLineArr[3]);
     }
 
 
@@ -22,7 +25,7 @@ public class LogLine implements Comparable<LogLine>
         {
             if(this.depCity.compareTo(logLine.depCity) == 0)
             {
-                return this.arrCity.compareTo(logLine.arrCity);
+                return this.desCity.compareTo(logLine.desCity);
 
             }
             else
@@ -32,11 +35,8 @@ public class LogLine implements Comparable<LogLine>
             return Integer.compare(this.arrTime , logLine.arrTime);
     }
 
-    public String buildLogline()
-    {
-        StringBuilder logLine = new StringBuilder();
-        logLine.append(userID).append(":").append(depCity).append(":").append(arrCity).append(":").append(arrTime);
-        return logLine.toString();
-    }
 
+    public String getLogLine() {
+        return logLine;
+    }
 }
