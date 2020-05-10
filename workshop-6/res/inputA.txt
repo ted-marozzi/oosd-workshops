@@ -1,0 +1,6 @@
+5:Melbourne:Sydney:2
+2:Cairns:Townsville:0
+5:Sydney:Melbourne:8
+25:Port Hedland:Weipa:6
+36:Annerly:Gold Coast:2
+922:Port Hedland:Perth:6
