@@ -1,4 +1,6 @@
 import java.io.IOException;
+import java.util.Arrays;
+
 
 public class TransitProcessor extends LogProcessor {
 
@@ -20,7 +22,24 @@ public class TransitProcessor extends LogProcessor {
      */
     @Override
     public String[] processLogLines() {
-        // Remember, you can access the lines of the log using the getter inherited from the superclass
-        return null;
+        int i = 0;
+        LogLine[] sortedLog = new LogLine[getLines().length];
+        String[] sortedLogString = new String[getLines().length];
+        for(String line:getLines())
+        {
+            sortedLog[i] = new LogLine(line);
+            i++;
+        }
+
+        Arrays.sort(sortedLog);
+        i = 0;
+
+        for(LogLine line:sortedLog)
+        {
+            sortedLogString[i] = line.getLogLine();
+            i++;
+        }
+
+        return sortedLogString;
     }
 }
