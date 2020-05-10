@@ -1,0 +1,1000 @@
+351:Albany:Nowra:42
+966:Devonport:West Tamworth:199
+860:Albany:Burnie:252
+824:Whyalla:Sunbury:162
+966:Adelaide:Roebourne:111
+106:Mount Gambier:Shepparton:264
+424:Rockhampton:West Tamworth:54
+621:South Melbourne:Goulburn:14
+131:Sunbury:Adelaide:197
+424:Hervey Bay:Newcastle:94
+916:Kalgoorlie:Brisbane:94
+33:Wagga Wagga:Bunbury:34
+645:Canberra:Shepparton:304
+974:Orange:Queanbeyan:78
+12:Tweed Heads:Wollongong:142
+593:Townsville:Taree:103
+378:Tweed Heads:Tweed Heads:111
+583:Cranbourne:Mandurah:203
+886:Mount Gambier:Mount Isa:129
+110:West Tamworth:Ballarat:48
+593:Burnie:Kalgoorlie:34
+858:East Maitland:Nowra:126
+110:East Maitland:Wollongong:129
+341:Albany:Echuca:122
+433:North Mackay:Canberra:199
+860:Armidale:Newcastle:318
+76:Gold Coast:Mandurah:159
+847:Mildura:Canberra:176
+719:Taree:Mildura:82
+405:Maryborough:South Melbourne:270
+583:Maryborough:Burnie:74
+583:Albury:Albany:228
+966:Maryborough:Newcastle:304
+847:North Lismore:Katoomba:173
+583:Kwinana:Townsville:192
+351:Sunbury:Geelong:314
+433:North Lismore:Dubbo:334
+615:Gold Coast:Murray Bridge:326
+198:Roebourne:Murray Bridge:147
+383:Shepparton:Darwin:122
+974:Albury:Warrnambool:49
+860:Caboolture:Mount Gambier:70
+476:Newcastle:North Lismore:188
+850:Darwin:Burnie:35
+719:Alice Springs:Queanbeyan:262
+110:Newcastle:Toowoomba:94
+886:Shepparton:Coffs Harbour:308
+850:Tweed Heads:Rockhampton:7
+247:Wagga Wagga:Hervey Bay:314
+916:Hobart:Bendigo:185
+247:Queanbeyan:Darwin:77
+214:Kalgoorlie:Mount Gambier:276
+424:Toowoomba:Coffs Harbour:151
+198:Mount Gambier:Albury:331
+351:Launceston:Alice Springs:59
+850:Whyalla:Gold Coast:153
+621:North Lismore:Albury:248
+76:Queanbeyan:Katoomba:28
+110:Melton:Warrnambool:222
+916:Traralgon:Orange:223
+477:Burnie:Sunbury:285
+198:Roebourne:Wollongong:132
+429:Shepparton:Geraldton:244
+870:Kalgoorlie:Perth:296
+591:Coffs Harbour:Cranbourne:244
+131:Hobart:Caloundra:276
+858:Warrnambool:Maryborough:196
+983:Mount Isa:Goulburn:173
+591:Taree:Gladstone:318
+894:Burnie:Perth:155
+185:Devonport:Murray Bridge:216
+886:Goulburn:Sunbury:270
+106:Goulburn:Kwinana:84
+131:Ballarat:Mildura:117
+12:Port Macquarie:Albury:329
+863:Wagga Wagga:Kalgoorlie:151
+615:South Melbourne:Bundaberg:209
+916:Albury:Bunbury:255
+583:Nowra:Cranbourne:325
+858:Canberra:Caloundra:104
+433:Albury:East Maitland:295
+850:North Mackay:Traralgon:246
+214:Alice Springs:Gladstone:122
+131:Goulburn:Nowra:224
+256:West Tamworth:Warrnambool:90
+131:Queanbeyan:Ballarat:242
+33:Echuca:Alice Springs:210
+405:Bendigo:Murray Bridge:25
+615:Alice Springs:Hobart:331
+850:Rockhampton:Kalgoorlie:339
+798:Mildura:Murray Bridge:153
+33:Mandurah:Roebourne:112
+615:Wollongong:Mount Gambier:80
+351:Warrnambool:Caloundra:112
+860:Roebourne:Whyalla:234
+798:Queanbeyan:North Mackay:337
+850:Melton:Ballarat:110
+824:Mount Gambier:Murray Bridge:132
+33:Queanbeyan:Burnie:170
+286:North Lismore:Burnie:74
+966:Cranbourne:Caloundra:105
+433:Caloundra:Queanbeyan:122
+863:Kwinana:Devonport:285
+351:Bendigo:Mount Isa:218
+645:Launceston:Roebourne:138
+591:Geraldton:South Melbourne:137
+583:Ballarat:Armidale:12
+974:Taree:Hervey Bay:184
+351:Bendigo:Launceston:102
+615:North Lismore:Nowra:181
+621:Goulburn:Albury:149
+983:Gold Coast:Kalgoorlie:283
+894:Port Macquarie:Katoomba:257
+424:Orange:Hervey Bay:126
+672:Bunbury:Wagga Wagga:306
+106:Taree:Townsville:203
+405:Geraldton:Canberra:171
+941:Bunbury:Geraldton:143
+645:Melton:Darwin:229
+886:Roebourne:Townsville:229
+863:Geraldton:Melton:338
+719:Katoomba:Maryborough:197
+247:Newcastle:Roebourne:236
+886:Melton:Taree:303
+672:Darwin:Hobart:246
+198:Wagga Wagga:Albury:161
+672:Bendigo:Adelaide:173
+131:Bunbury:Albury:151
+286:Cranbourne:Ballarat:152
+719:Sale:West Tamworth:303
+860:Armidale:Coffs Harbour:4
+894:Melton:Port Macquarie:328
+858:Ballarat:Roebourne:238
+858:Burnie:Rockhampton:32
+858:Mildura:Goulburn:182
+966:Orange:Caboolture:268
+941:Dubbo:Shepparton:24
+286:Bunbury:Port Macquarie:181
+847:Hobart:Goulburn:196
+974:Geelong:Queanbeyan:20
+847:Mildura:Kalgoorlie:38
+863:Orange:Geraldton:220
+185:Roebourne:Canberra:264
+94:Mount Gambier:Bundaberg:14
+110:Geraldton:Albany:236
+405:Katoomba:Townsville:304
+858:South Melbourne:Coffs Harbour:208
+615:Bundaberg:Katoomba:283
+860:Perth:Kwinana:99
+850:Kalgoorlie:Mildura:151
+94:Warrnambool:Armidale:62
+858:Bunbury:Armidale:164
+383:Coffs Harbour:Maryborough:257
+110:Orange:Toowoomba:253
+858:Launceston:Townsville:327
+583:Armidale:Caboolture:284
+477:Gold Coast:Bundaberg:268
+405:Darwin:Newcastle:207
+405:Orange:Traralgon:18
+655:Gladstone:Mandurah:7
+655:Coffs Harbour:Hervey Bay:38
+477:Gold Coast:Albany:91
+429:Kwinana:Hobart:316
+341:Dubbo:Canberra:228
+256:Cranbourne:Canberra:122
+941:Melton:Kalgoorlie:254
+33:Geraldton:Katoomba:8
+12:Goulburn:Caloundra:301
+593:Katoomba:Dubbo:132
+76:Geraldton:Perth:307
+76:North Lismore:North Lismore:189
+185:Taree:Caboolture:25
+433:Orange:Tweed Heads:97
+621:Caloundra:Mandurah:294
+593:Kwinana:West Tamworth:256
+886:Goulburn:Launceston:174
+886:Echuca:Warrnambool:137
+966:Traralgon:Bendigo:239
+131:South Melbourne:Devonport:70
+424:Darwin:Wagga Wagga:171
+247:Roebourne:Sunbury:316
+858:Hobart:Orange:201
+798:Cranbourne:Mandurah:139
+858:Murray Bridge:Geelong:143
+424:Canberra:Sunbury:165
+966:Sunbury:Echuca:261
+378:Gold Coast:Hervey Bay:326
+824:Wollongong:Hobart:8
+256:Sale:Traralgon:287
+847:Devonport:Sale:126
+916:Roebourne:Caboolture:127
+916:Caloundra:Rockhampton:270
+719:Coffs Harbour:North Mackay:185
+894:Geraldton:Maryborough:170
+286:Kalgoorlie:Gold Coast:182
+247:Dubbo:Newcastle:256
+941:Caloundra:Wollongong:321
+583:Ballarat:Tweed Heads:62
+966:Katoomba:Orange:313
+424:Warrnambool:North Mackay:216
+110:Launceston:Whyalla:158
+256:Cranbourne:Nowra:257
+645:Hobart:Kalgoorlie:222
+279:Gold Coast:Geelong:100
+405:Canberra:Brisbane:196
+916:Roebourne:Mount Gambier:199
+591:Mandurah:Hervey Bay:215
+351:North Mackay:Mildura:294
+214:West Tamworth:East Maitland:50
+351:Hobart:Perth:252
+33:East Maitland:Newcastle:150
+860:East Maitland:Armidale:3
+858:Mildura:Burnie:30
+860:Mandurah:Whyalla:173
+847:Perth:Taree:219
+247:Launceston:Gold Coast:159
+672:Albury:Queanbeyan:36
+214:Cranbourne:Roebourne:125
+621:Dubbo:Shepparton:127
+858:Dubbo:Wollongong:325
+798:Toowoomba:Wagga Wagga:93
+256:Nowra:Cairns:23
+33:Traralgon:Geelong:217
+110:Dubbo:Mount Gambier:303
+279:Traralgon:Rockhampton:58
+477:Alice Springs:West Tamworth:232
+847:Sale:Traralgon:260
+621:South Melbourne:Alice Springs:77
+383:Gold Coast:Toowoomba:61
+886:East Maitland:Taree:144
+76:Canberra:Geelong:140
+214:Whyalla:Whyalla:294
+383:Cranbourne:Shepparton:173
+916:Sunbury:Alice Springs:76
+824:Coffs Harbour:Mount Gambier:32
+405:North Mackay:Taree:334
+655:Wagga Wagga:Albury:128
+983:Maryborough:Mount Isa:47
+341:Albany:West Tamworth:97
+110:Darwin:Cranbourne:279
+378:Bunbury:Cairns:30
+433:Launceston:Tweed Heads:58
+106:Maryborough:Caboolture:86
+424:Rockhampton:Goulburn:184
+351:Murray Bridge:Hervey Bay:339
+429:Rockhampton:Bunbury:37
+850:Echuca:Sunbury:248
+33:Traralgon:Warrnambool:316
+824:Ballarat:Toowoomba:192
+645:Albury:Sale:21
+621:Hervey Bay:Nowra:232
+591:North Lismore:Launceston:4
+798:Hobart:Cranbourne:32
+378:Echuca:Perth:210
+214:Kalgoorlie:Kwinana:132
+655:Orange:Kwinana:137
+719:Burnie:Roebourne:6
+198:Townsville:Taree:300
+858:Mount Gambier:Warrnambool:182
+863:Queanbeyan:Toowoomba:23
+719:Mildura:Gold Coast:123
+110:Taree:Bunbury:251
+966:Hervey Bay:Whyalla:212
+847:Geraldton:Townsville:177
+429:Cairns:Whyalla:149
+286:Gladstone:Bendigo:54
+615:Brisbane:Kalgoorlie:241
+583:Perth:Newcastle:134
+621:Sunbury:Coffs Harbour:184
+477:Caloundra:Caboolture:280
+894:Coffs Harbour:Melton:213
+256:Bendigo:Alice Springs:24
+477:Katoomba:Bendigo:88
+33:Brisbane:Roebourne:226
+424:Caloundra:Dubbo:43
+916:Kwinana:Echuca:334
+110:Brisbane:Mount Gambier:62
+824:Port Macquarie:Coffs Harbour:128
+798:Traralgon:Sale:339
+476:Tweed Heads:Sale:81
+12:Cairns:Mount Isa:291
+351:East Maitland:Whyalla:332
+941:Katoomba:Albury:102
+858:Rockhampton:Coffs Harbour:174
+476:Albury:Bendigo:111
+583:Wagga Wagga:Sunbury:96
+860:Wagga Wagga:Perth:146
+916:Bunbury:Bundaberg:188
+198:Taree:Traralgon:0
+378:Launceston:Adelaide:256
+983:Wagga Wagga:Wagga Wagga:342
+824:Geelong:Cranbourne:197
+351:Caboolture:Adelaide:277
+94:Bendigo:Kalgoorlie:153
+886:Dubbo:Ballarat:88
+583:Warrnambool:Cairns:146
+131:Gladstone:Tweed Heads:161
+615:Darwin:Roebourne:295
+850:Hobart:Mount Isa:330
+351:Mount Gambier:Rockhampton:151
+110:Whyalla:Caloundra:252
+424:North Lismore:Geraldton:96
+94:Mount Isa:Maryborough:94
+983:Sale:Tweed Heads:222
+615:Queanbeyan:Armidale:313
+33:Warrnambool:Bunbury:260
+279:Sunbury:East Maitland:261
+110:Townsville:North Mackay:148
+941:Geelong:Goulburn:73
+110:Bundaberg:Port Macquarie:245
+429:Toowoomba:Maryborough:111
+256:Sale:Bundaberg:102
+858:Geraldton:Cairns:66
+247:Shepparton:Tweed Heads:39
+798:Cairns:Shepparton:236
+279:Ballarat:Ballarat:66
+672:Hervey Bay:Bunbury:136
+894:Cranbourne:Caboolture:273
+185:Shepparton:South Melbourne:117
+824:Geraldton:Townsville:340
+131:Orange:Ballarat:331
+870:Geraldton:Taree:203
+916:Melton:Gladstone:14
+645:Cranbourne:Katoomba:76
+863:Albany:Kalgoorlie:67
+719:Murray Bridge:Adelaide:7
+378:West Tamworth:Port Macquarie:85
+106:Wagga Wagga:Geelong:156
+847:Shepparton:Caloundra:102
+621:West Tamworth:East Maitland:208
+824:Rockhampton:Adelaide:217
+858:Brisbane:Wagga Wagga:5
+110:Bendigo:Wagga Wagga:207
+974:Kalgoorlie:Warrnambool:26
+424:Toowoomba:Mandurah:78
+593:Shepparton:Armidale:35
+279:Kwinana:Gold Coast:69
+824:Sale:Geraldton:192
+894:Launceston:Orange:137
+798:Gladstone:Sale:249
+672:Kalgoorlie:Perth:283
+672:Coffs Harbour:Dubbo:314
+824:Port Macquarie:South Melbourne:137
+719:Launceston:Gold Coast:5
+858:Murray Bridge:Kalgoorlie:325
+655:Bundaberg:Gladstone:36
+131:Bunbury:Taree:204
+341:Darwin:Maryborough:123
+886:Rockhampton:South Melbourne:221
+198:Whyalla:Caboolture:63
+894:Armidale:Geraldton:155
+621:Darwin:Gold Coast:151
+941:Melton:Sale:95
+983:Wollongong:Whyalla:240
+76:Goulburn:Launceston:56
+645:Wollongong:Caloundra:136
+110:Gold Coast:Caboolture:87
+351:Adelaide:Geelong:315
+286:Burnie:Bundaberg:169
+378:Ballarat:Murray Bridge:188
+983:Sunbury:Kwinana:123
+966:Brisbane:Katoomba:321
+106:Bendigo:Dubbo:224
+110:Geelong:Warrnambool:190
+621:Mandurah:East Maitland:141
+593:Roebourne:Mildura:138
+33:Bendigo:Geraldton:57
+941:Kalgoorlie:Newcastle:252
+858:Brisbane:Coffs Harbour:138
+798:Bunbury:Bunbury:248
+286:Maryborough:Bendigo:18
+591:Caloundra:Nowra:241
+110:Newcastle:Tweed Heads:215
+106:Traralgon:Cranbourne:194
+863:Cairns:Traralgon:305
+94:Warrnambool:Geelong:238
+94:East Maitland:Darwin:152
+110:Echuca:Caboolture:116
+110:Wollongong:Sunbury:11
+974:Bunbury:Dubbo:64
+860:Bendigo:Burnie:197
+847:Nowra:Perth:22
+247:Warrnambool:Newcastle:104
+110:Taree:Shepparton:316
+860:Traralgon:Armidale:51
+591:North Mackay:Darwin:327
+863:Murray Bridge:Hervey Bay:46
+106:Warrnambool:North Mackay:146
+378:Devonport:Perth:230
+33:Gold Coast:Darwin:111
+850:Bundaberg:Bundaberg:68
+214:Traralgon:Mount Isa:68
+870:Hobart:Armidale:104
+76:Burnie:Darwin:328
+76:Coffs Harbour:North Lismore:167
+110:Traralgon:Adelaide:198
+429:Kalgoorlie:Katoomba:304
+477:Orange:Albany:164
+672:Cranbourne:Dubbo:141
+12:Caloundra:Wollongong:69
+886:Bundaberg:Caboolture:33
+983:Maryborough:Brisbane:11
+886:Traralgon:Tweed Heads:206
+966:Gold Coast:Darwin:69
+433:East Maitland:Taree:311
+94:Wagga Wagga:Albury:71
+886:Queanbeyan:Caloundra:303
+621:Hobart:Alice Springs:58
+185:Warrnambool:Armidale:36
+110:Cranbourne:Queanbeyan:10
+847:Albury:Kwinana:109
+860:Goulburn:Brisbane:165
+916:Roebourne:Hobart:92
+860:Whyalla:Sale:240
+405:Shepparton:Sale:91
+33:Orange:Burnie:38
+185:West Tamworth:Albany:87
+185:Goulburn:Perth:166
+429:Melton:North Lismore:234
+12:Canberra:Kalgoorlie:279
+858:Armidale:Geelong:299
+593:Perth:Bunbury:233
+33:Cranbourne:Tweed Heads:56
+583:East Maitland:North Mackay:254
+341:Goulburn:Albany:143
+894:South Melbourne:Townsville:18
+894:Brisbane:Coffs Harbour:39
+476:Hervey Bay:Toowoomba:306
+847:Katoomba:Perth:275
+824:Bunbury:Murray Bridge:137
+433:Wagga Wagga:Dubbo:44
+983:Shepparton:West Tamworth:28
+870:Cranbourne:Gold Coast:267
+798:Albury:South Melbourne:344
+94:Brisbane:Sunbury:1
+424:Tweed Heads:Cairns:220
+94:Newcastle:Devonport:85
+645:Alice Springs:Caboolture:333
+894:Murray Bridge:Kwinana:97
+214:Shepparton:Murray Bridge:190
+424:Darwin:Sunbury:297
+916:Hervey Bay:East Maitland:250
+131:South Melbourne:Whyalla:255
+593:Sale:North Mackay:304
+433:Albany:Launceston:166
+941:Kwinana:Launceston:292
+850:Wollongong:North Lismore:225
+847:Albany:South Melbourne:91
+76:Bundaberg:Albury:276
+424:Roebourne:Perth:132
+645:Katoomba:Gladstone:247
+12:Warrnambool:Queanbeyan:256
+916:South Melbourne:Gold Coast:139
+94:Albany:Queanbeyan:223
+655:Mount Isa:Bunbury:318
+76:Mount Isa:Rockhampton:145
+247:Wollongong:Murray Bridge:307
+886:Traralgon:Roebourne:118
+429:Newcastle:Toowoomba:186
+131:Murray Bridge:Taree:2
+858:Coffs Harbour:Launceston:331
+383:Adelaide:Orange:109
+870:Roebourne:East Maitland:53
+824:Albury:Ballarat:129
+886:Canberra:Burnie:219
+583:Roebourne:Albany:86
+886:North Lismore:Geelong:54
+621:Taree:Caboolture:289
+94:Warrnambool:Maryborough:217
+477:Burnie:Roebourne:336
+429:Burnie:Adelaide:98
+12:Geelong:Adelaide:250
+615:Sunbury:Nowra:179
+12:Wollongong:Caloundra:276
+798:Adelaide:Port Macquarie:190
+12:Cranbourne:Brisbane:88
+916:South Melbourne:Darwin:220
+615:Gladstone:Newcastle:66
+433:North Mackay:Geraldton:151
+860:Wollongong:Melton:19
+106:Murray Bridge:Gold Coast:323
+424:Coffs Harbour:Darwin:166
+378:Albury:Port Macquarie:343
+383:Gladstone:Bunbury:330
+886:Albany:Armidale:231
+593:East Maitland:Geelong:264
+424:Traralgon:Gold Coast:247
+870:Alice Springs:Darwin:313
+583:Burnie:Coffs Harbour:67
+583:Albany:Kwinana:88
+850:Hervey Bay:Mount Gambier:283
+886:Mildura:Goulburn:292
+286:Echuca:Geraldton:54
+847:Sunbury:Bendigo:293
+983:Goulburn:Taree:149
+286:Sunbury:Albury:44
+33:Armidale:Roebourne:231
+591:Murray Bridge:Cranbourne:16
+429:Albury:Townsville:248
+12:Coffs Harbour:Canberra:18
+966:Geelong:Nowra:116
+279:Bundaberg:Melton:112
+916:Melton:Darwin:96
+424:Gold Coast:Traralgon:117
+591:Shepparton:Mount Gambier:250
+860:West Tamworth:Adelaide:106
+214:Roebourne:Sale:140
+941:Wagga Wagga:Canberra:146
+429:Perth:Nowra:253
+341:Cairns:Hobart:126
+583:Darwin:Orange:285
+131:Gladstone:Shepparton:337
+615:Bunbury:Katoomba:294
+185:Murray Bridge:Whyalla:257
+383:Nowra:Mount Gambier:131
+615:Mildura:Queanbeyan:91
+886:Katoomba:Bendigo:261
+858:Tweed Heads:Bunbury:50
+33:South Melbourne:Maryborough:192
+621:Launceston:North Mackay:150
+886:Mount Isa:Toowoomba:200
+645:Burnie:Hervey Bay:179
+593:North Lismore:Maryborough:110
+351:Maryborough:North Lismore:42
+378:Bendigo:Rockhampton:293
+655:Rockhampton:Warrnambool:132
+672:Wagga Wagga:Townsville:126
+424:Perth:Goulburn:101
+916:Launceston:Gold Coast:84
+110:Orange:Katoomba:202
+33:Gladstone:Katoomba:61
+870:Hobart:Gladstone:179
+198:Melton:Townsville:175
+593:Hervey Bay:Perth:274
+583:Taree:Maryborough:176
+591:Alice Springs:Brisbane:19
+824:Adelaide:Geelong:184
+247:West Tamworth:Kwinana:252
+621:Ballarat:Shepparton:321
+886:Shepparton:Dubbo:223
+621:Gold Coast:Port Macquarie:52
+341:Mandurah:Mount Isa:5
+383:Hobart:East Maitland:59
+94:Bunbury:Wagga Wagga:248
+583:Sale:East Maitland:89
+477:East Maitland:Canberra:13
+983:Bundaberg:Hervey Bay:161
+886:Newcastle:Warrnambool:40
+583:Burnie:Devonport:145
+645:Queanbeyan:Brisbane:176
+621:North Mackay:Launceston:217
+424:Shepparton:Bundaberg:0
+279:Whyalla:Alice Springs:342
+76:Tweed Heads:Adelaide:291
+131:Dubbo:Canberra:340
+378:Hobart:Burnie:18
+886:Perth:Roebourne:54
+351:Nowra:Launceston:255
+378:Adelaide:Caboolture:313
+655:Wagga Wagga:Coffs Harbour:13
+672:Murray Bridge:East Maitland:174
+966:Sunbury:Mount Gambier:155
+591:Murray Bridge:Sale:231
+583:Port Macquarie:Gladstone:80
+719:Caloundra:Caboolture:289
+863:Dubbo:Perth:147
+593:Armidale:Gladstone:293
+424:Gladstone:Nowra:83
+286:Sale:East Maitland:268
+858:Shepparton:East Maitland:133
+719:Geelong:Hervey Bay:119
+860:Port Macquarie:Port Macquarie:111
+405:Port Macquarie:Darwin:17
+645:Gladstone:Wollongong:47
+860:Roebourne:Bunbury:257
+593:Shepparton:Traralgon:270
+798:Port Macquarie:Hobart:268
+672:Armidale:Shepparton:33
+941:Sunbury:Launceston:88
+850:Adelaide:Bundaberg:169
+351:Mandurah:Katoomba:26
+383:Canberra:South Melbourne:223
+279:Adelaide:Adelaide:134
+131:Kwinana:Brisbane:288
+583:Katoomba:Caboolture:52
+591:Hervey Bay:Kalgoorlie:186
+476:Sale:Kalgoorlie:106
+351:Armidale:Echuca:127
+198:Maryborough:North Lismore:332
+12:Mount Gambier:Maryborough:305
+424:Perth:Launceston:227
+477:North Mackay:Kwinana:189
+672:Bunbury:Wollongong:203
+870:Cranbourne:Caboolture:228
+106:Roebourne:Gold Coast:178
+615:Katoomba:Caboolture:98
+185:Newcastle:Queanbeyan:173
+863:Perth:Mildura:145
+286:Roebourne:Nowra:231
+583:Geelong:Katoomba:1
+351:Caloundra:Rockhampton:336
+583:Brisbane:Gold Coast:188
+256:Murray Bridge:Mildura:151
+621:Dubbo:Rockhampton:247
+719:Whyalla:Alice Springs:305
+583:Rockhampton:Mildura:204
+824:Mount Isa:Hervey Bay:98
+424:Nowra:East Maitland:338
+858:Mount Isa:Ballarat:40
+286:Katoomba:Murray Bridge:336
+256:Sale:Mandurah:190
+477:Ballarat:Canberra:93
+247:Adelaide:Canberra:166
+798:Sale:Wagga Wagga:289
+247:Ballarat:West Tamworth:146
+247:Nowra:Sunbury:132
+477:Roebourne:Warrnambool:55
+429:Warrnambool:Canberra:244
+916:Newcastle:Echuca:247
+916:Caloundra:Caboolture:294
+966:Maryborough:Albany:332
+351:Coffs Harbour:Wagga Wagga:2
+33:Melton:Orange:103
+33:Port Macquarie:Orange:27
+433:Hobart:Melton:241
+798:Nowra:Devonport:177
+886:Hervey Bay:Maryborough:304
+858:Launceston:West Tamworth:330
+974:Queanbeyan:Tweed Heads:37
+12:Canberra:Mildura:77
+894:Kwinana:Alice Springs:191
+476:Warrnambool:Alice Springs:286
+847:East Maitland:Alice Springs:236
+719:Sunbury:Melton:269
+131:Bundaberg:Caboolture:244
+583:Whyalla:Maryborough:117
+131:North Mackay:Rockhampton:295
+672:Ballarat:Albany:144
+847:Hobart:Orange:219
+798:Newcastle:Queanbeyan:44
+798:Gold Coast:Armidale:225
+672:Port Macquarie:North Lismore:66
+76:Launceston:Katoomba:332
+279:Townsville:Bundaberg:224
+983:North Mackay:Bunbury:286
+33:Sale:Armidale:203
+860:Cranbourne:North Mackay:121
+645:Melton:Hobart:87
+860:East Maitland:Sale:212
+106:Caboolture:Gold Coast:229
+645:Roebourne:Shepparton:250
+847:North Mackay:Taree:138
+719:Perth:North Mackay:211
+341:Katoomba:Caloundra:29
+847:Albany:Maryborough:178
+214:Bunbury:Caloundra:314
+894:Mount Gambier:Cranbourne:272
+477:Hervey Bay:Wagga Wagga:95
+621:Mildura:North Lismore:287
+850:Wagga Wagga:Orange:207
+886:Echuca:Sunbury:82
+429:Wollongong:Mount Gambier:107
+405:Melton:Goulburn:74
+863:West Tamworth:Katoomba:205
+863:Kwinana:North Mackay:108
+672:Maryborough:Hervey Bay:243
+847:Perth:Hobart:219
+424:Sunbury:Geelong:217
+824:Darwin:Albany:231
+798:Burnie:Townsville:253
+645:North Lismore:Burnie:262
+886:Adelaide:Alice Springs:249
+286:Wagga Wagga:Queanbeyan:297
+12:Mount Gambier:Coffs Harbour:27
+916:Gladstone:Mount Isa:65
+110:Goulburn:Hervey Bay:192
+247:Caloundra:Warrnambool:54
+583:Dubbo:Goulburn:341
+405:Ballarat:Queanbeyan:320
+247:Dubbo:Mount Isa:191
+621:Mildura:Sale:149
+824:Brisbane:Canberra:311
+983:Rockhampton:Roebourne:293
+110:Coffs Harbour:Tweed Heads:292
+378:Melton:Cairns:293
+886:Darwin:Taree:184
+94:Brisbane:Devonport:324
+110:Ballarat:Maryborough:270
+894:Goulburn:Newcastle:111
+110:Shepparton:Mandurah:222
+863:Darwin:Hobart:57
+966:Perth:Sunbury:206
+974:Launceston:Cairns:204
+256:Maryborough:Coffs Harbour:278
+966:East Maitland:Albany:49
+863:Gold Coast:Devonport:234
+405:Townsville:Wagga Wagga:329
+378:Caloundra:Maryborough:237
+429:Devonport:Port Macquarie:301
+378:Albury:Maryborough:208
+983:Nowra:Roebourne:160
+378:Albany:Armidale:256
+476:Hobart:Geraldton:252
+983:Taree:Hervey Bay:293
+593:Townsville:Mount Gambier:304
+131:Ballarat:Devonport:128
+593:Murray Bridge:Geelong:323
+858:Armidale:Caboolture:93
+185:Caloundra:Albury:92
+645:Townsville:Murray Bridge:147
+798:South Melbourne:Perth:269
+429:Armidale:Mount Isa:301
+655:Cranbourne:Albury:43
+850:Townsville:Newcastle:243
+476:Dubbo:Cairns:192
+824:Dubbo:Armidale:321
+256:West Tamworth:Alice Springs:281
+847:Bundaberg:South Melbourne:127
+983:Roebourne:Dubbo:42
+198:North Mackay:Caboolture:191
+615:Toowoomba:Maryborough:71
+131:Tweed Heads:Nowra:298
+198:Sunbury:Cranbourne:56
+645:Devonport:Gold Coast:195
+886:Caloundra:Launceston:129
+433:Rockhampton:Whyalla:128
+798:Mandurah:Alice Springs:180
+76:Cranbourne:Warrnambool:20
+591:Gladstone:Albany:84
+131:Sale:North Mackay:248
+824:Albany:Taree:47
+858:Hobart:Kwinana:96
+863:Queanbeyan:Roebourne:213
+198:Wollongong:Echuca:68
+76:Kalgoorlie:Traralgon:76
+591:Perth:Adelaide:211
+256:Goulburn:Townsville:112
+983:Ballarat:Nowra:336
+863:Burnie:Albany:270
+824:Shepparton:Echuca:139
+983:West Tamworth:Devonport:244
+860:Albany:Sunbury:182
+894:Sale:Wollongong:160
+583:North Lismore:Hervey Bay:32
+941:Kalgoorlie:Canberra:226
+655:Cairns:Kalgoorlie:52
+615:Kalgoorlie:Canberra:101
+33:Alice Springs:South Melbourne:44
+858:Burnie:Mildura:162
+94:Dubbo:Dubbo:278
+106:Ballarat:Bundaberg:330
+858:Mount Isa:Cranbourne:12
+894:Mildura:Traralgon:189
+110:Adelaide:Wollongong:88
+110:Albury:Bendigo:225
+824:Roebourne:Sunbury:27
+719:Taree:Mildura:280
+886:Brisbane:Cairns:304
+279:Wollongong:Darwin:9
+591:Adelaide:Hobart:216
+110:Albany:Hobart:323
+916:Launceston:Wagga Wagga:235
+824:North Mackay:Alice Springs:317
+476:Traralgon:Cranbourne:300
+256:Tweed Heads:Toowoomba:79
+198:Newcastle:Brisbane:187
+33:Murray Bridge:Toowoomba:155
+966:Alice Springs:Newcastle:68
+894:Kalgoorlie:Port Macquarie:110
+429:Brisbane:Mount Gambier:72
+850:Cranbourne:Mandurah:183
+645:Katoomba:Bendigo:219
+476:Taree:Canberra:310
+110:Hervey Bay:Bendigo:146
+593:Wagga Wagga:Hobart:124
+886:Toowoomba:Hobart:278
+974:Hobart:Roebourne:172
+886:Armidale:North Lismore:148
+824:Dubbo:Armidale:136
+886:Brisbane:Townsville:133
+672:Coffs Harbour:Alice Springs:164
+383:West Tamworth:Albany:96
+916:Warrnambool:Whyalla:328
+383:Maryborough:Adelaide:74
+110:Caloundra:Shepparton:239
+583:Warrnambool:Goulburn:190
+593:Cranbourne:North Lismore:269
+378:Mandurah:Kwinana:172
+593:Armidale:Rockhampton:161
+583:Wollongong:Geelong:70
+941:Echuca:Sale:271
+12:Cranbourne:Dubbo:119
+106:East Maitland:Albany:298
+621:Mount Gambier:Kwinana:341
+185:Bendigo:Adelaide:214
+824:Burnie:Alice Springs:111
+966:Caboolture:Traralgon:129
+256:Newcastle:Geelong:123
+645:Mount Gambier:Ballarat:84
+824:South Melbourne:Warrnambool:288
+341:Brisbane:Katoomba:207
+106:Mount Gambier:Mildura:80
+983:Sunbury:Shepparton:101
+383:Burnie:Gold Coast:182
+824:Townsville:Nowra:70
+351:West Tamworth:Taree:289
+433:Taree:Port Macquarie:137
+279:Port Macquarie:Tweed Heads:111
+798:Gold Coast:Caloundra:342
+894:West Tamworth:Katoomba:70
+863:Bunbury:Gold Coast:316
+974:Albury:Nowra:140
+886:Kalgoorlie:Wagga Wagga:85
+256:Mildura:Geelong:10
+983:Newcastle:Alice Springs:244
+886:Darwin:Coffs Harbour:198
+847:Tweed Heads:Bunbury:43
+198:Mount Isa:Wagga Wagga:281
+847:Newcastle:Warrnambool:172
+593:Gladstone:Bunbury:172
+424:Albany:Murray Bridge:123
+214:Geraldton:Queanbeyan:339
+974:Roebourne:Mount Isa:278
+591:Launceston:Melton:284
+916:Melton:Traralgon:324
+621:Whyalla:South Melbourne:113
+858:Albany:Shepparton:295
+860:Shepparton:Newcastle:219
+279:Townsville:Whyalla:161
+719:Gold Coast:Coffs Harbour:57
+858:Taree:Caboolture:37
+131:Sale:Armidale:326
+983:Warrnambool:Caloundra:117
+886:Albany:Alice Springs:315
+593:Whyalla:Launceston:147
+591:Albany:Cranbourne:156
+974:Cranbourne:Ballarat:100
+966:Traralgon:Toowoomba:108
+256:Caboolture:Mount Isa:125
+858:Dubbo:Melton:98
+110:Echuca:Echuca:189
+378:Mount Isa:Melton:82
+798:Brisbane:Caboolture:111
+433:Roebourne:Kalgoorlie:233
+655:Mandurah:Toowoomba:256
+655:Perth:Kwinana:101
+858:Geraldton:Hervey Bay:289
+824:Kalgoorlie:Kwinana:72
+870:Cranbourne:Echuca:169
+583:Geraldton:Canberra:166
+12:Darwin:Caloundra:37
+76:Launceston:Devonport:91
+383:Echuca:Brisbane:257
+477:North Mackay:Goulburn:48
+894:South Melbourne:Goulburn:201
+850:Goulburn:Katoomba:329
+672:Hobart:Sunbury:18
+110:Sale:West Tamworth:245
+655:Whyalla:Whyalla:201
+424:Gladstone:Warrnambool:116
+76:Gladstone:Gold Coast:262
+850:Coffs Harbour:Sale:38
+476:Brisbane:Perth:0
+863:Bendigo:Orange:33
+672:West Tamworth:Albury:264
+429:North Lismore:Launceston:234
+247:Wollongong:Cairns:268
+593:Toowoomba:Cairns:57
+279:Queanbeyan:Burnie:232
+591:Gladstone:Burnie:7
+256:Whyalla:West Tamworth:265
+279:North Lismore:Burnie:191
+110:Roebourne:Townsville:7
+286:Melton:Melton:337
+719:Darwin:Maryborough:22
+94:Echuca:Perth:232
+886:Albury:Whyalla:240
+110:Warrnambool:Warrnambool:174
+12:Wollongong:Cairns:233
+858:Tweed Heads:Cairns:318
+247:Caboolture:Bundaberg:63
+378:Maryborough:Gold Coast:289
+341:Darwin:Traralgon:317
+33:Echuca:Port Macquarie:283
+847:Katoomba:Geraldton:316
+863:Shepparton:Adelaide:303
+916:Tweed Heads:Murray Bridge:140
+860:Brisbane:Nowra:308
+645:Sale:Dubbo:63
+286:Albury:Bunbury:278
+593:Whyalla:Hervey Bay:170
+185:Cranbourne:Katoomba:177
+966:Roebourne:Tweed Heads:233
+966:Murray Bridge:Mildura:251
+591:Cairns:Adelaide:324
+279:Geraldton:Echuca:273
+886:Armidale:Nowra:39
+110:Launceston:Launceston:265
+941:Bendigo:Bundaberg:205
+941:Whyalla:Wollongong:98
+593:Perth:Mildura:318
+847:Alice Springs:Mount Isa:114
+279:Taree:Armidale:96
+76:Cranbourne:Geraldton:213
+860:Mandurah:Warrnambool:128
+974:Geraldton:Armidale:195
+847:Taree:Mandurah:19
+198:Melton:Goulburn:60
+279:Gold Coast:Caloundra:84
+405:Traralgon:Brisbane:58
+719:Toowoomba:Maryborough:254
+672:Albany:Darwin:252
+341:Townsville:Armidale:328
+824:Murray Bridge:Whyalla:267
+863:Bundaberg:Devonport:123
+405:Kalgoorlie:Cranbourne:212
+110:Mandurah:Dubbo:154
+424:Newcastle:Cairns:59
+378:Port Macquarie:Port Macquarie:18
+655:East Maitland:Wollongong:3
+33:Coffs Harbour:Gladstone:52
+593:Caboolture:Taree:42
+719:Port Macquarie:Cranbourne:300
+621:Geelong:Hervey Bay:107
+870:Dubbo:Cranbourne:240
+916:Sunbury:Coffs Harbour:260
+974:Gold Coast:Geraldton:54
+378:Geelong:Caloundra:240
+185:Hobart:Port Macquarie:253
+645:Warrnambool:Kwinana:54
+341:East Maitland:Devonport:72
+185:Alice Springs:Townsville:162
+886:Katoomba:Perth:215
+863:Devonport:Adelaide:122
+131:Dubbo:Roebourne:227
+286:Nowra:Caloundra:14
+476:Bunbury:Dubbo:103
+655:Caboolture:Queanbeyan:65
+615:Port Macquarie:Adelaide:114
+476:Cairns:Adelaide:119
+131:Tweed Heads:Burnie:313
+106:Wollongong:Goulburn:270
+198:Bendigo:Cairns:325
+110:Echuca:Mount Gambier:332
+870:Kwinana:Cairns:32
+110:Caboolture:Sale:171
+672:Sale:Bundaberg:255
+131:Katoomba:Maryborough:91
+424:Devonport:Alice Springs:162
+214:Albury:Queanbeyan:183
+94:Roebourne:Orange:296
+106:Mildura:Kwinana:228
+433:Melton:Canberra:262
+886:Sale:Geraldton:115
+798:Coffs Harbour:Orange:306
+850:Roebourne:Launceston:77
+106:Ballarat:Cranbourne:282
+94:Coffs Harbour:Cranbourne:292
+983:Bendigo:Gladstone:106
+424:Cairns:Townsville:32
+383:Ballarat:Echuca:31
+863:Hervey Bay:Nowra:326
+33:Sale:East Maitland:17
+106:Hervey Bay:Sunbury:101
+106:Devonport:Cranbourne:186
+33:Kalgoorlie:Burnie:35
+476:Cranbourne:Cairns:217
+966:Rockhampton:Melton:57
+185:Rockhampton:Townsville:331
+279:South Melbourne:Caboolture:170
+286:Hobart:Mildura:183
+433:Hobart:Melton:105
+185:Hobart:Warrnambool:130
+621:Kalgoorlie:Shepparton:82
+847:Canberra:North Lismore:91
+858:Rockhampton:Melton:133
+886:Shepparton:Traralgon:334
+824:Kalgoorlie:Mount Gambier:172
+894:Mount Isa:Cairns:308
+185:Wagga Wagga:Taree:134
+983:Port Macquarie:Coffs Harbour:252
+591:Darwin:Nowra:257
+185:Echuca:Nowra:63
+378:Cranbourne:Roebourne:64
+256:South Melbourne:Katoomba:327
+886:Mandurah:Kwinana:195
+106:Caboolture:Sale:37
+858:Albury:Burnie:38
+94:Echuca:Caloundra:190
+621:Launceston:Echuca:205
+76:Hervey Bay:Alice Springs:325
+131:Rockhampton:Warrnambool:17
+591:Shepparton:Wagga Wagga:189
+850:Hervey Bay:Launceston:99
+106:Orange:Orange:35
+256:Kwinana:Perth:38
+424:Ballarat:Bendigo:209
+110:Devonport:West Tamworth:132
+286:Cairns:Whyalla:213
+106:Caloundra:Adelaide:132
