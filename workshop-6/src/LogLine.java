@@ -15,23 +15,16 @@ public class LogLine implements Comparable<LogLine>
         arrTime = Integer.parseInt(logLineArr[3]);
     }
 
-
     @Override
     public int compareTo(LogLine logLine) {
         if(this.arrTime == logLine.arrTime)
         {
             if(this.depCity.compareTo(logLine.depCity) == 0)
-            {
                 return this.desCity.compareTo(logLine.desCity);
-
-            }
-            else
-                return this.depCity.compareTo(logLine.depCity);
+            return this.depCity.compareTo(logLine.depCity);
         }
-        else
-            return Integer.compare(this.arrTime , logLine.arrTime);
+        return Integer.compare(this.arrTime , logLine.arrTime);
     }
-
 
     public String getLogLine() {
         return logLine;
