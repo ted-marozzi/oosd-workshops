@@ -1,41 +1,41 @@
 /**
  * Represents a node in a binary tree
  */
-class BinaryTreeNode {
+class BinaryTreeNode<T> {
 
     // Child node references
-    private BinaryTreeNode left;
-    private BinaryTreeNode right;
+    private BinaryTreeNode<T> left;
+    private BinaryTreeNode<T> right;
 
     // Value of the node
-    private final int value;
+    private final T value;
 
     /**
      * Creates a new node with a specified value
      *
      * @param value The value of the node
      */
-    public BinaryTreeNode(int value) {
+    public BinaryTreeNode(T value) {
         this.value = value;
     }
 
-    public int getValue() {
+    public T getValue() {
         return value;
     }
 
-    public BinaryTreeNode getLeft() {
+    public BinaryTreeNode<T> getLeft() {
         return left;
     }
 
-    public BinaryTreeNode getRight() {
+    public BinaryTreeNode<T> getRight() {
         return right;
     }
 
-    public void setRight(BinaryTreeNode right) {
+    public void setRight(BinaryTreeNode<T> right) {
         this.right = right;
     }
 
-    public void setLeft(BinaryTreeNode left) {
+    public void setLeft(BinaryTreeNode<T> left) {
         this.left = left;
     }
 
