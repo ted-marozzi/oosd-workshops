@@ -1,18 +1,15 @@
 public class LogLine implements Comparable<LogLine>
 {
 
-    private String desCity = null;
-    private String depCity = null;
-    private int arrTime = 0;
-    private int userID;
+    private String desCity;
+    private String depCity;
+    private int arrTime;
     private String logLine;
-    private String[] logLineArr;
 
     public LogLine(String logLine)
     {
         this.logLine = logLine;
-        this.logLineArr = logLine.split(":");
-        userID = Integer.parseInt(logLineArr[0]);
+        String[] logLineArr = logLine.split(":");
         depCity = logLineArr[1];
         desCity = logLineArr[2];
         arrTime = Integer.parseInt(logLineArr[3]);
