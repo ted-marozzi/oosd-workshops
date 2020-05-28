@@ -5,8 +5,16 @@ public class AvnacDesignCache implements DesignCache {
 
     private final Map<String, Design> cache;
 
-    public AvnacDesignCache() {
+    private static AvnacDesignCache _INSTANCE;
+
+    private AvnacDesignCache() {
         this.cache = new HashMap<>();
+    }
+
+    public static AvnacDesignCache getInstance() {
+        if(_INSTANCE == null)
+            _INSTANCE = new AvnacDesignCache();
+        return _INSTANCE;
     }
 
     @Override
