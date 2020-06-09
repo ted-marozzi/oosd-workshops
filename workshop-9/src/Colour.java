@@ -32,6 +32,8 @@ public final class Colour {
         }
         rgbList.add(color);
         return color;
+
+
     }
 
     public int getR() {
